@@ -1,29 +1,33 @@
-# Hi, I'm Tuan 👋
+# Hallo, ich bin Tuan 👋
 
-I'm currently completing an IHK retraining program in Application Development.
+Mein vollständiger Name ist **Thanh Tuan Nguyen**, im Alltag werde ich jedoch **Tuan** genannt.
 
-## About me
+Derzeit absolviere ich eine IHK-Umschulung zum **Fachinformatiker für Anwendungsentwicklung** und baue mir parallel ein professionelles Softwareentwicklungs-Portfolio auf.
 
-- Learning Java, SQL and Git
-- Building practical software projects
-- Interested in backend development and cloud technologies
-- Currently looking for an internship in software development
+## 👨‍💻 Über mich
 
-## Currently learning
+* 💻 Ich lerne aktuell **Java**, **SQL**, **Git** und **GitHub**
+* 🚀 Ich entwickle eigene Softwareprojekte, um meine Programmierkenntnisse kontinuierlich auszubauen
+* ☁️ Langfristig interessiere ich mich für **Cloud Engineering**, **Cloud Architecture** und moderne Backend-Entwicklung
+* 🎯 Aktuell suche ich eine Praxisphase im Bereich **Softwareentwicklung**
 
-- Java
-- Object-oriented programming
-- SQL
-- Git and GitHub
+## 📚 Aktuelle Lerninhalte
 
-## Planned next steps
+* Java
+* Objektorientierte Programmierung (OOP)
+* SQL
+* Git & GitHub
 
-- Spring Boot
-- REST APIs
-- PostgreSQL
-- Docker
-- Cloud fundamentals
+## 🎯 Nächste Lernziele
 
-## Projects
+* Spring Boot
+* REST APIs
+* PostgreSQL
+* Docker
+* Linux-Grundlagen
 
-My first projects will be added here soon.
+## 📂 Projekte
+
+In den nächsten Monaten werde ich hier verschiedene Projekte veröffentlichen, die meine Entwicklung als Softwareentwickler dokumentieren. Jedes Projekt soll zeigen, welche Technologien ich gelernt habe und wie ich praktische Probleme löse.
+
+Vielen Dank für deinen Besuch auf meinem GitHub-Profil!
