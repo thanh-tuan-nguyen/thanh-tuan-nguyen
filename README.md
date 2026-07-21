@@ -44,15 +44,32 @@ Derzeit absolviere ich eine **IHK-Umschulung zum Fachinformatiker für Anwendung
 
 ## 📂 Projekte
 
-Hier veröffentliche ich nach und nach eigene Softwareprojekte und dokumentiere meinen Lernfortschritt.
+Aktuell arbeite ich zunächst an kleineren Projekten, um meine Kenntnisse in Java, objektorientierter Programmierung, SQL und Git praktisch zu vertiefen.
 
-Geplante Projekte:
+### Geplante Einstiegsprojekte
 
-* 📦 Lagerverwaltung für einen Asia-Markt
-* 📋 Verwaltung von Bewerbungen und Praxisstellen
-* ✅ Aufgabenverwaltung mit Java und einer Datenbank
+* ☕ Einfache Produktverwaltung mit Java
+* 🗄️ Kleine Datenbankanwendung mit SQL
+* 🌐 Erste REST-API mit Spring Boot
+* ✅ Aufgabenverwaltung mit Speicherung und Statusverwaltung
 
-Mein erstes größeres Projekt soll eine praxisnahe Anwendung mit **Java**, **Spring Boot** und **PostgreSQL** werden.
+### Langfristiges Hauptprojekt
+
+#### 🛒 Asia Market Management System
+
+Langfristig möchte ich ein Warenwirtschafts- und Verwaltungssystem für einen kleinen Asia-Lebensmittelmarkt entwickeln.
+
+Das System soll später unter anderem folgende Bereiche miteinander verbinden:
+
+* Produkt- und Barcodeverwaltung
+* Lagerbestände und Bestandsbewegungen
+* Mindesthaltbarkeitsdaten und Warenchargen
+* Einkäufe und Wareneingänge
+* Mindestbestände und Bestellhinweise
+* Import von Verkaufsdaten aus einem externen Kassensystem
+* automatische Anpassung des Lagerbestands nach Verkäufen
+
+Das Projekt wird erst nach und nach aufgebaut. Zunächst konzentriere ich mich auf kleinere, abgeschlossene Anwendungen und erweitere anschließend Schritt für Schritt meine Kenntnisse.
 
 ## 🚀 Mein Ziel
 
