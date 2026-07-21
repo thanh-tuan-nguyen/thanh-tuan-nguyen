@@ -1,4 +1,4 @@
-# Hi, I'm Thanh 👋
+# Hi, I'm Tuan 👋
 
 I'm currently completing an IHK retraining program in Application Development.
 
