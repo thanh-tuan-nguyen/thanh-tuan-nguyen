@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Thanh 👋
 
-<!--
-**thanh-tuan-nguyen/thanh-tuan-nguyen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently completing an IHK retraining program in Application Development.
 
-Here are some ideas to get you started:
+## About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Learning Java, SQL and Git
+- Building practical software projects
+- Interested in backend development and cloud technologies
+- Currently looking for an internship in software development
+
+## Currently learning
+
+- Java
+- Object-oriented programming
+- SQL
+- Git and GitHub
+
+## Planned next steps
+
+- Spring Boot
+- REST APIs
+- PostgreSQL
+- Docker
+- Cloud fundamentals
+
+## Projects
+
+My first projects will be added here soon.
